@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-gnoll
+  x-cortex-tag: monster-gnoll
+  x-cortex-custom-metadata:
+    alignment: chaotic-good
+    type: plant
+    challenge_rating: 3
+    legendary: false
+    armor_class: 11
+    hit_points: 38
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-gnoll
+      alias: github-token-test
